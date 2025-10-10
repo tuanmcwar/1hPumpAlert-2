@@ -11,7 +11,7 @@ module.exports = {
     TELEGRAM_BOT_TOKEN: '8124541723:AAGSih3ZxgPORFGeogvH2tSgAzUVyPGLvlo',
     // TELEGRAM_BOT_TOKEN: '7640879888:AAGG-YwTdCiAjimmnMZnAXDqYeNYmn78OsI',
     TELEGRAM_CHAT_ID: '5710130520',
-    API_KEY: '17047740-cd30-4ba1-b5bf-30f80bd05461',
+    API_KEY: 'fb50c19c-52fe-4b96-a7f4-c9e1aee6f613',
     from,
     to
 };
